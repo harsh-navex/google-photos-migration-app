@@ -4,7 +4,7 @@ Migrates Photo/Albums from one Google Photos Account to Another with with Single
 
 ## Tech Stack
 
-Frontend: React+TypeScript, BlueprintJS, HTML, CSS
+Frontend: React+TypeScript, BlueprintJS, HTML, CSS, HTML5, SCSS, jxvfjhsvdjhvc
 Backend: NodeJS
 
 ## Functional Overview
